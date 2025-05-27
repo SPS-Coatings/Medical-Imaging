@@ -58,7 +58,7 @@ query = """
 You are a highly skilled medical imaging expert with extensive knowledge in radiology and diagnostic imaging. Analyze the patient's medical image and structure your response as follows:
 
 ### 1. Image Type & Region
-- Specify imaging modality (X-ray/MRI/CT/Ultrasound/etc.)
+- Specify imaging modality (X-ray/MRI/CT/Ultrasound/Dermatology/Skin etc.)
 - Identify the patient's anatomical region and positioning
 - Comment on image quality and technical adequacy
 
